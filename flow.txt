@@ -1,0 +1,12 @@
+Expense tracker
+
+
+Step 1 — Decide what the app should do
+
+1  - Add expense
+2  - view all expense
+3  - show total spending 
+4  - Filter expense by catgory
+5  - delete an expense
+6  - exit
+
